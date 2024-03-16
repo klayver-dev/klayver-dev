@@ -19,6 +19,8 @@
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/klayver-dev?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=black) 
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=klayver-dev&theme=react&hide_border=true" alt="GitHub Streak" /></a>
+
 </div>
 
 
