@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=klayver-dev&show_icons=true&theme=react&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=klayver-dev&show_icons=true&theme=dracula&count_private=true)
 </div>
 
 
