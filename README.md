@@ -7,6 +7,8 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=klayver-dev&theme=react&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=klayver-dev&show_icons=true&theme=dracula&count_private=true)
+
 </div>
 
 
