@@ -6,7 +6,6 @@
 <div align="center">
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=klayver-dev&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klayver-dev&hide_progress=true)
 </div>
 
 
