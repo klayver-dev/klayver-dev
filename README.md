@@ -37,7 +37,7 @@
 
 <img align="left" height="84" width="84" src="https://i.pinimg.com/originals/1e/4c/7e/1e4c7e48e499e866be6085a8112c878b.jpg">
 
-<img align="left"  height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
+<img align="left"  height="80" width="80" src="https://storage.googleapis.com/hcode-public-storage/images/PHP-8/PHP8_DEFAULT_HCODE.png">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
