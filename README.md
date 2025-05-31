@@ -4,7 +4,7 @@
 
 Me chamo Klayver, tenho 18 anos e sou estudante do ensino médio. Atuo como desenvolvedor backend, com experiência em PHP puro, e atualmente estou estudando Laravel para evoluir ainda mais nas boas práticas do desenvolvimento web. Também tenho conhecimento em HTML, CSS e JavaScript, além de estar aprendendo React e Next.js para ampliar meu domínio no front-end moderno.
 
-Sou apaixonado por tecnologia e estou sempre buscando evoluir, na área de programação "[Instagram](https://www.instagram.com/klayvermartins_/)".
+Sou apaixonado por tecnologia e estou sempre buscando evoluir, na área de programação! "[Instagram](https://www.instagram.com/klayvermartins_/)".
 
 ---
 
@@ -128,4 +128,3 @@ Sou apaixonado por tecnologia e estou sempre buscando evoluir, na área de progr
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayver-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
