@@ -1,52 +1,58 @@
-# 👨‍💻 Klayver Martins
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+<h1 align="center">Olá, eu sou Klayver Martins 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;PHP+%7C+Laravel+Developer;React+%7C+Next.js+Developer;Always+Building+and+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;PHP+%7C+Laravel+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full Stack apaixonado por tecnologia e desenvolvimento de software. Possuo experiência no desenvolvimento de aplicações web utilizando PHP, Laravel, JavaScript, TypeScript, React e Next.js, atuando tanto no backend quanto no frontend.
+Sou Desenvolvedor Full Stack com foco no desenvolvimento de aplicações web modernas, atuando tanto no backend quanto no frontend.
 
-Tenho interesse em arquitetura de software, APIs, bancos de dados, desenvolvimento de produtos digitais e boas práticas de programação. Atualmente foco na criação de aplicações modernas, escaláveis e de fácil manutenção, buscando constantemente aprimorar meus conhecimentos e construir projetos que gerem valor real para usuários e empresas.
+Possuo experiência no desenvolvimento de sistemas utilizando PHP, Laravel, JavaScript, TypeScript, React e Next.js, além de modelagem e gerenciamento de bancos de dados com MySQL e Prisma ORM.
+
+Tenho interesse em arquitetura de software, desenvolvimento de produtos digitais, bancos de dados e boas práticas de engenharia de software, buscando criar aplicações escaláveis, performáticas e de fácil manutenção.
 
 ---
 
 ## 🛠️ Tecnologias
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</p>
+### Frontend
 
----
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-05122A?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge\&logo=typescript)
+![React](https://img.shields.io/badge/React-05122A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-05122A?style=for-the-badge\&logo=nextdotjs)
 
-## 📊 GitHub Stats
+### Backend
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klayver-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+![PHP](https://img.shields.io/badge/PHP-05122A?style=for-the-badge\&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-05122A?style=for-the-badge\&logo=laravel)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayver-dev&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+### Banco de Dados & ORM
+
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge\&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-05122A?style=for-the-badge\&logo=prisma)
+
+### Ferramentas
+
+![VS Code](https://img.shields.io/badge/VS_Code-05122A?style=for-the-badge\&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge\&logo=github)
 
 ---
 
 ## 📫 Contato
 
-* Instagram: https://instagram.com/klayvermartins_
-* GitHub: https://github.com/klayver-dev
+<p align="left">
+  <a href="https://github.com/klayver-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
 
----
-
-> "Transformando ideias em aplicações web modernas através de código, aprendizado contínuo e boas práticas de desenvolvimento."
+  <a href="https://www.instagram.com/klayvermartins_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
