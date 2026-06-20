@@ -1,28 +1,30 @@
 <h1 align="center">Olá, eu sou Klayver Martins 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Laravel;React+%7C+Next.js;Software+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React.js+%7C+Next.js;Node.js+%7C+NestJS;TypeScript+%7C+Prisma;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Construindo aplicações web modernas com foco em qualidade, escalabilidade e boas práticas de desenvolvimento.
+  Desenvolvedor Full Stack focado na construção de aplicações modernas, escaláveis e de alta performance utilizando JavaScript e TypeScript.
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+# 🚀 Sobre Mim
 
-Tenho experiência no desenvolvimento de aplicações web utilizando PHP, Laravel, JavaScript, TypeScript, React e Next.js.
+Sou desenvolvedor Full Stack com foco no ecossistema JavaScript e TypeScript, atuando no desenvolvimento de aplicações web, APIs e sistemas voltados para soluções de negócio.
 
-Atuo na construção de sistemas, APIs e interfaces modernas, participando tanto do backend quanto do frontend. Tenho grande interesse por arquitetura de software, modelagem de dados, bancos de dados e engenharia de software.
+Tenho experiência na construção e manutenção de aplicações, modelagem de banco de dados, integração de serviços e desenvolvimento de interfaces modernas, buscando sempre código limpo, performance e escalabilidade.
 
-Busco constantemente aprimorar minhas habilidades para desenvolver aplicações escaláveis, performáticas e de fácil manutenção.
+Meu foco principal está em React.js, Next.js, Node.js, NestJS e Prisma, tecnologias que utilizo para desenvolver aplicações robustas e preparadas para crescimento.
+
+Atualmente curso Bacharelado em Ciência da Computação e mantenho uma rotina contínua de estudos e desenvolvimento de projetos para evolução técnica e profissional.
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
-### Frontend
+## Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3)
@@ -30,43 +32,69 @@ Busco constantemente aprimorar minhas habilidades para desenvolver aplicações 
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-05122A?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-05122A?style=for-the-badge&logo=tailwindcss)
 
-### Backend
+## Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/NestJS-05122A?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-05122A?style=for-the-badge&logo=express)
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-05122A?style=for-the-badge&logo=laravel)
 
-### Banco de Dados & ORM
+## Banco de Dados & ORM
 
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql)
-![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-05122A?style=for-the-badge&logo=prisma)
-
-### Ferramentas
-
-![VS Code](https://img.shields.io/badge/VS_Code-05122A?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-05122A?style=for-the-badge&logo=prisma)
 
 ---
 
-## 🎯 Foco Atual
+# 🎯 Especialidades
 
-Atualmente estou aprofundando meus conhecimentos em Arquitetura de Software, Desenvolvimento Backend com Laravel, Banco de Dados, Engenharia de Software e desenvolvimento de aplicações modernas utilizando React e Next.js.
+- Desenvolvimento Frontend com React.js e Next.js
+- Desenvolvimento Backend com Node.js e NestJS
+- APIs REST
+- TypeScript
+- Prisma ORM
+- Banco de Dados SQL e NoSQL
+- Arquitetura de Software
+- Clean Code
+- Integração de Sistemas
+- Versionamento com Git e GitHub
 
 ---
 
-## 📫 Contato
+# 📚 Atualmente Aprimorando
+
+- Arquitetura de Software
+- Design Patterns
+- NestJS
+- Prisma ORM
+- MongoDB
+- PostgreSQL
+- Testes Automatizados
+- Boas práticas de Backend
+
+---
+
+# 📈 Objetivo
+
+Contribuir no desenvolvimento de produtos digitais de qualidade, participando da criação de aplicações escaláveis, performáticas e de fácil manutenção, enquanto evoluo minha especialização no ecossistema JavaScript e TypeScript.
+
+---
+
+# 🤝 Vamos Conectar?
 
 <p align="center">
   <a href="https://github.com/klayver-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/klayver-paula-martins/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="https://www.instagram.com/klayvermartins_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://SEU-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
